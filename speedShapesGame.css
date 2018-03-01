@@ -36,6 +36,7 @@
 	border-right: 25px solid transparent; 
 	border-bottom: 17.5px solid tomato; 
 	border-left: 25px solid transparent; 
+	transform: rotate(35deg); 
 	-moz-transform: rotate(35deg); 
 	-webkit-transform: rotate(35deg); 
 	-ms-transform: rotate(35deg); 
@@ -53,6 +54,7 @@
 	left: -16.25px; 
 	display: block; 
 	content: ''; 
+	transform: rotate(-35deg); 
 	-webkit-transform: rotate(-35deg); 
 	-moz-transform: rotate(-35deg); 
 	-ms-transform: rotate(-35deg); 
@@ -69,6 +71,7 @@
 	border-right: 25px solid transparent; 
 	border-bottom: 17.5px solid tomato; 
 	border-left: 25px solid transparent; 
+	transform: rotate(-70deg); 
 	-webkit-transform: rotate(-70deg); 
 	-moz-transform: rotate(-70deg); 
 	-ms-transform: rotate(-70deg); 
